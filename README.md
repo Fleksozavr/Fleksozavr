@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/jljsGNh5C80AAAAd/your-name-kimi-no-na-wa.gif" width="220" height="150"/>
+  <img src="https://i.pinimg.com/originals/fc/65/78/fc6578265b412e61e9857fe2deb27fe7.gif" width="220" height="150"/>
   <div id="badges">
   <a href="https://discord.com/users/622001497705545738/">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me : I am a beginnger programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I have been studying Python for more than 1 year, I dream of becoming a backend developer.
+- :telescope: I have been studying Python for more than 1 year and strive to become a backend developer.
 
 - :seedling: Exploring backend Content Writing.
 
