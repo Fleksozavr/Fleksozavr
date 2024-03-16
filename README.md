@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me : I am a beginnge programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :woman_technologist: About Me : I am a beginnger programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I have been studying Python for more than 1 year, I dream of becoming a backend developer.
 
 - :seedling: Exploring backend Content Writing.
