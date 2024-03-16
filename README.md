@@ -28,9 +28,11 @@
 - :zap: In my free time, I solve problems on Kwork and read tech articles.
 
 - :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/622001497705545738/)
-- ---
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,11 +45,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fleksozavr&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fleksozavr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
     
