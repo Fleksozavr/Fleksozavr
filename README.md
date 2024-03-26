@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/fc/65/78/fc6578265b412e61e9857fe2deb27fe7.gif" width="220" height="150"/>
   <div id="badges">
   <a href="https://discord.com/users/622001497705545738/">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
@@ -14,7 +13,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" max-width=100% height=100%/>
+        <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif'/>
 </div>
 </div>
 
