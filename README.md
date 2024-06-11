@@ -3,9 +3,6 @@
   <a href="https://discord.com/users/622001497705545738/">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://vk.com/fleksozavr">
-    <img src="https://img.shields.io/badge/VK-blue?logo=vkontakte&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
-  </a>   
 </div>
   <img src="https://komarev.com/ghpvc/?username=fleksozavr&style=flat-square&color=blue" alt=""/>
 <h1>
