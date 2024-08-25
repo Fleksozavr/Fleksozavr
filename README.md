@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <div id="badges">
   <a href="https://discord.com/users/622001497705545738/">
-    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge" alt="" width="150"/>
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge" alt="" width="125"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=fleksozavr&style=flat-square&color=blue" alt="" width="200" height="50"/>
+  <img src="https://komarev.com/ghpvc/?username=fleksozavr&style=flat-square&color=blue" alt="" width="150" height="30"/>
 <h1>
   qq all
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
   <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDM2aXJleDNvZjFuZ3o4NHozcWFweWFyYTJidnlrYnhoMWh1NDlodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp"/>
