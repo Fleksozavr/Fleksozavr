@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge" alt="" width="100"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=fleksozavr&style=flat-square&color=blue" alt="" width="110" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=fleksozavr&style=flat-square&color=blue" alt="" width="140" height="30"/>
 <h1>
   qq all
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
